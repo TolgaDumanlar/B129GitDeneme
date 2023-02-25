@@ -4,6 +4,7 @@ public class Deneme {
         System.out.println("Dünya");
         System.out.println("B129");
         System.out.println("Merhaba Dünya");
+        System.out.println("Dünya");
     }
 
 }
